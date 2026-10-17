@@ -1,0 +1,25 @@
+{
+  "name": "iSpeak!!! — Inglês na prática",
+  "short_name": "iSpeak!!!",
+  "description": "5.000 palavras em inglês com pronúncia IPA e tradução para português.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061229",
+  "theme_color": "#071a3a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
